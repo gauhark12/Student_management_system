@@ -27,8 +27,7 @@ class Student
             cin>>roll[i];
             cout<<"Enter Attendance : ";
             cin>>attendance[i];
-            cout<<"Enter Marks : ";
-            cin>>marks[i];
+            
         }
     }
     void display(){
