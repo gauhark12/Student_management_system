@@ -49,7 +49,7 @@ int main(){
     //Student S;
     //S.display();
 
-    
+    cout<<"Select any number: "<<endl;
     do{
         cout<<"Enter 1 to create a list: "<<endl;
         cout<<"Enter 2 to display the list: "<<endl;
