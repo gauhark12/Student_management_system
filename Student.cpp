@@ -46,9 +46,17 @@ class Student
 
 int main(){
     int choice;
-    Student S;
-    S.display();
+    //Student S;
+    //S.display();
 
+    
+    do{
+        cout<<"Enter 1 to create a list: "<<endl;
+        cout<<"Enter 2 to display the list: "<<endl;
+        cout<<"Enter 0 to exit"<<endl;
+        cout<<"Enter 0 to exit"<<endl;
+        cin>>choice;
+    }while(choice!=0);
     return 0;
 }
 
